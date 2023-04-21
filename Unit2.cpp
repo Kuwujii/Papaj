@@ -48,7 +48,7 @@ void __fastcall TForm2::rm(TObject *Sender)
         if(Form2 ->AlphaBlendValue<125) {
                 Form2 ->AlphaBlendValue +=5;
         }
-        //Form1 -> chuj++;
+        Form1 -> chuj++;
 
 }
 //---------------------------------------------------------------------------
