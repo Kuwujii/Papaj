@@ -1,13 +1,12 @@
 object Form2: TForm2
-  Left = 232
-  Top = 295
+  Left = 498
+  Top = 216
+  Width = 219
+  Height = 288
   AlphaBlend = True
   AlphaBlendValue = 5
   AutoSize = True
-  BorderStyle = bsNone
   Caption = 'Form2'
-  ClientHeight = 249
-  ClientWidth = 203
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
